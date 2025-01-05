@@ -8,8 +8,8 @@ I've been coding since I was a child. I've always loved it, even to the point of
 
 * 🌍  I'm based in Denver, Colorado
 * ✉️  You can contact me at [berlinerkyle@gmail.com](mailto:berlinerkyle@gmail.com)
-* 🚀  I'm currently working on [Groupomania](https://github.com/KBerliner/GroupoMERNia)
-* 🧠  I'm learning WebSockets
+* 🚀  I'm currently working on improving my Test Driven Development skills
+* 🧠  I'm learning C#
 
 ### Skills
 
